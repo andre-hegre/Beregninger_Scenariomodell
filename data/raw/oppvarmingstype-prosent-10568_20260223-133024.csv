@@ -1,0 +1,22 @@
+"10568: Husholdninger (prosent), etter oppvarmingsutstyr, statistikkvariabel, år og bygningstype"
+"oppvarmingsutstyr";"Husholdninger 2009 Alle bygningstyper";"Husholdninger 2009 Våningshus";"Husholdninger 2009 Enebolig";"Husholdninger 2009 Rekkehus, kjedehus, andre småhus";"Husholdninger 2009 Boligblokk";"Husholdninger 2012 Alle bygningstyper";"Husholdninger 2012 Våningshus";"Husholdninger 2012 Enebolig";"Husholdninger 2012 Rekkehus, kjedehus, andre småhus";"Husholdninger 2012 Boligblokk";"Husholdninger 2022 Alle bygningstyper";"Husholdninger 2022 Våningshus";"Husholdninger 2022 Enebolig";"Husholdninger 2022 Rekkehus, kjedehus, andre småhus";"Husholdninger 2022 Boligblokk"
+"Elektriske ovner eller varmekabler";95.0;93.0;97.0;93.0;92.0;94.0;94.0;96.0;97.0;89.0;84.0;87.0;85.0;88.0;80.0
+"Ovn for olje eller parafin";5.0;4.0;7.0;7.0;0.0;4.0;3.0;7.0;2.0;2.0;..;..;..;..;..
+"Vedovn og/eller peis";67.0;96.0;88.0;64.0;26.0;66.0;98.0;86.0;65.0;22.0;..;..;..;..;..
+"Pelletsovn";1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;..;..;..;..;..
+"Åpen peis";10.0;14.0;14.0;6.0;4.0;12.0;19.0;17.0;9.0;4.0;..;..;..;..;..
+"Lukket vedovn, peisovn";65.0;94.0;84.0;62.0;24.0;60.0;98.0;80.0;58.0;19.0;51.0;85.0;75.0;56.0;13.0
+"Kombiovn for ved og olje";11.0;19.0;12.0;14.0;3.0;6.0;9.0;10.0;4.0;1.0;..;..;..;..;..
+"Ovn for olje og parafin og/eller kombiovn for ved og olje";14.0;20.0;16.0;19.0;3.0;10.0;11.0;15.0;6.0;3.0;..;..;..;..;..
+"Vedovn/peis og/eller kombiovn for ved og olje";72.0;100.0;92.0;73.0;27.0;67.0;99.0;89.0;65.0;23.0;..;..;..;..;..
+"Åpen peis og lignende, utenom vedovn";3.0;2.0;4.0;2.0;2.0;5.0;1.0;7.0;6.0;3.0;..;..;..;..;..
+"Felles eller egen sentralfyr utenom fjernvarme";8.0;8.0;6.0;4.0;15.0;10.0;8.0;8.0;5.0;18.0;3.0;1.0;1.0;1.0;7.0
+"Felles sentralfyr utenom fjernvarme";4.0;0.0;0.0;2.0;15.0;5.0;0.0;0.0;2.0;18.0;..;..;..;..;..
+"Egen sentralfyr";4.0;8.0;6.0;2.0;0.0;5.0;8.0;8.0;3.0;0.0;..;..;..;..;..
+"Fjernvarme";2.0;0.0;0.0;2.0;6.0;4.0;0.0;1.0;2.0;13.0;5.0;0.0;0.0;1.0;13.0
+"Varmepumpe";18.0;17.0;33.0;8.0;2.0;27.0;30.0;44.0;16.0;6.0;41.0;59.0;65.0;33.0;13.0
+"Luft-luft varmepumpe";17.0;12.0;31.0;8.0;1.0;23.0;27.0;39.0;15.0;2.0;35.0;55.0;57.0;29.0;6.0
+"Annen type varmepumpe";2.0;4.0;2.0;1.0;1.0;4.0;4.0;6.0;1.0;4.0;7.0;4.0;8.0;4.0;8.0
+"Varmegjenvinning";7.0;3.0;8.0;9.0;7.0;9.0;6.0;10.0;8.0;8.0;9.0;5.0;10.0;8.0;9.0
+"Gassovn";3.0;0.0;3.0;3.0;3.0;3.0;4.0;3.0;3.0;4.0;3.0;1.0;2.0;3.0;3.0
+"Annet oppvarmingsutstyr";..;..;..;..;..;..;..;..;..;..;3.0;3.0;3.0;2.0;2.0
