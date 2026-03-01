@@ -5,7 +5,7 @@ __pycache__/
 
 .claude/
 .vscode/
-
+*png
 # C extensions
 *.so
 
